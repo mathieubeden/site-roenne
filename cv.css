@@ -1,0 +1,37 @@
+.gris
+{
+    position: absolute;
+    width: 10%;
+    height: 170%;
+    padding: 10px;
+    border: 10px;
+    margin: 20px;
+    background-color: gray;
+    z-index: 2;
+    text-align: end;
+}
+.red
+{
+    position: absolute;
+    width: 60%;
+    height: 30%;
+    border: 10px;
+    margin: 50px;
+    background-color: rgba(231, 32, 6, 0.87);
+    z-index: 1;
+    text-align: center;
+}
+.block
+{
+    position: relative;
+    top: 350px;
+    left: 250px;
+    background-color: rgb(226, 211, 192);
+    width: 700px;
+    height: 1000px;
+    text-align: center;
+}
+#t
+{
+    color: rgb(0, 162, 255)
+}

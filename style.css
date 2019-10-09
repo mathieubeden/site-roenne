@@ -1,0 +1,60 @@
+
+li {color: crimson;
+    transition :  1.0s;}
+
+button {color: steelblue; font-size: initial;
+    transition :  1.0s;}
+
+input {color: darkgreen;
+    transition :  1.0s;}
+
+h2 { color: deeppink; font-size: large;
+    transition :  1.0s;}
+
+p {color: aliceblue;
+    transition :  1.0s;}
+
+h1 {color: aliceblue;
+    transition :  1.0s;}
+
+i {color: aliceblue;
+    transition :  1.0s;}
+
+a {color: rgb(208, 88, 255);
+    transition :  1.0s;}
+
+h3 {color: aliceblue;
+    transition :  1.0s;}
+
+caption {color: aqua;
+    transition :  1.0s;}
+
+div {border:double rgb(88, 88, 248) 7px;
+    width: 95%;
+    padding: 5px;
+    transition :  1.0s;}
+
+#j {left: 20px;
+position: relative;
+transition :  1.0s;}
+
+#am {position: sticky;}
+
+@media (max-width: 799px){
+    body{background-image: url(./geos.jpg);background-size: cover;
+        transition :  1.0s;}
+    iframe{opacity: 0.5;
+        transition :  1.0s;}
+    video{opacity:0.4;
+        transition :  1.0s;}
+}
+@media (min-width: 800px){
+    body{background-image: url(./proton.jpg);
+        transition :  1.0s;}
+}
+@media (min-width: 1500px){
+    body{background-image: url(./galaga.png);
+        transition :  1.0s;}
+}
+legend{color: bisque;
+    transition :  1.0s;}

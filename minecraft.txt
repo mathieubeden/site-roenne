@@ -1,0 +1,1058 @@
+serveur winscp : 92.222.69.104:22/mathieu_b/
+
+id:mathieu_b
+
+mdp:agHdEgd
+
+apache
+
+nginx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         _____ _             _    _  __     _  _ _____
+                                        |_   _| |__   ___   / \  | |/ /    | || |___  |
+                                        | | | '_ \ / _ \   / _ \ | ' /_____| || |_ / /
+::::::::::::::::::::::::::::::::::::::::| |:| |:| |  __/::/ ___ \| . \_____|__   _/ /::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::|_|:|_|:|_|\___|:/_/:::\_\_|\_\:::::::|_|/_/:::::::::::::::::::::::::::::::::::::::::::
+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:___:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:
++:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:|    \  ___   ___ _   _ _ __ ___   ___ _ __ | |_ ___+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+
++#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#| | | |/ _ \+/ __| | | | '_ ` _ \ / _ \ '_ \| __/ __|#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+
+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+| |_| | (_) | (__| |_| | |#| |#| |  __/ |+| | |_\__ \+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#
+######################################|____/#\___/#\___|\__,_|_|#|_|#|_|\___|_|#|_|\__|___/####################################
+###############################################################################################################################
+#########################/----------------------------------------------------------------------------\########################
+#########################|    ,..,                                                                    |########################
+#########################|   /****\                                                 /-------------\   |########################
+#+#+#+#+#+#+#+#+#+#+#+#+#|  |******| + AK-47 +                                      |   Follow    |   |+#+#+#+#+#+#+#+#+#+#+#+#
++#+#+#+#+#+#+#+#+#+#+#+#+|  |******| @SpoofedAttack                                 \-------------/   |#+#+#+#+#+#+#+#+#+#+#+#+
++++++++++++++++++++++++++|   \****/                                                                   |++++++++++++++++++++++++
++++++++++++++++++++++++++|    `'-`                                                                    |++++++++++++++++++++++++
++:+:+:+:+:+:+:+:+:+:+:+:+|                                                                            |:+:+:+:+:+:+:+:+:+:+:+:+
+:+:+:+:+:+:+:+:+:+:+:+:+:|       @goturbox @yuhapril Go ahead and try and clown me I'd love to        |+:+:+:+:+:+:+:+:+:+:+:+:
+: : : : : : : : : : : : :|       to see this cause we know you're good at clowning yourself only.     | : : : : : : : : : : : :
+ : : : : : : : : : : : : |                                                                            |: : : : : : : : : : : :
+: : : : : : : : : : : : :|       9:32 AM - 8 Jul 2018                                                 | : : : : : : : : : : : :
+ : : : : : : : : : : : : |                                                                            |: : : : : : : : : : : :
+                         |       ?    !    &lt;    &gt;                                                     |
+                         \----------------------------------------------------------------------------/
+...............................................................................................................................
+                                      __
+                             ----.   |__) _ _     _ |_ |_  |_ _      _      |_   .
+                            "   _}   |__)| (_)|_|(_)| )|_  |_(_)  \/(_)|_|  |_)\/.
+                            "@&gt;               _/               /            /
+                            |\   7                          _   _    _    __  __ ____  _        _
+                          /'/ `-- _         ,-------,****  | \ | |  / \  |  \/  | __ )| |      / \
+                         /.`  &gt;o&lt;  \---------o{___}- |  \| | / _ \ | |\/| |  _ \| |     / _ \
+                         / |  \  /  ________/8'            | |\  |/ ___ \| |  | | |_) | |___ / ___ \
+                         | |       /         "             |_| \_/_/   \_\_|  |_|____/|_____/_/   \_\.org
+                         | /      |
++-----------------------------------------------------------------------------------------------------------------------------+
+|            *                                                                                                                |
+|                   [====================================================================================]            _.._    |
+|              *    |                                                                                    |          .' .-'`   |
+|                   |                                                                                    |         /  /       |
+|                   |                                                                                    |         |  |       |
+|                   |                                                                                    |         \  \       |
+|                   |                              -Table Of Contents-                                   |          '._'-._   |
+|                   |                                                                                    |             ```    |
+|   *   '*          |                         *0x00 - Intro                                              |                    |
+|           *       |                           *0x01 - Offense Information                              |                    |
+|                *  |                           *0x02 - Verification                                     |                    |
+|                   |                                                                                    |                    |
+|               *   |                         *0x10 - Ak-47 (Target)                                     |                    |
+|                   |                           *0x11 - Personal Information                             |                    |
+|                   |                           *0x12 - Online Account Info.                             |                    |
+|         .         |                             *0x13 - Call History                                   |        _           |
+|         .         |                                                                                    |       (-`          |
+|         :         |                         *0x20 - Family                                             |   "",  \           |
+|         !         |                           *0x21 - Brother (Adam Alvarado)                          |    (____)          |
+|         |        .|                             *0x22 - Personal Information                           | Snek doesn't like  |
+|         |_        |                             *0x23 - Online Account Info.                           | you, and therefore |
+|      ,  | `.      |                               *0x24 - Call History                                 | I don't either     |
+|--- --+--+- --- ---|                           *0x25 - Mother (Alexa Alvarado)                          |        - Unknown   |
+|      `._|_,'      |                             *0x26 - Personal Information                           |                    |
+|         T         |                             *0x27 - Online Account Info.                           |                    |
+|         |         |                           *0x28 - Father (David Alvarado)                          |                    |
+|         !         |                             *0x29 - Personal Information                           |                    |
+|         :         |                             *0x2A - Employment Information                         |                    |
+|         .       * |                                                                                    |                    |
+|                   |                         *0x30 - Other Documents                                    |                    |
+|                   |                           *0x31 - AK-47s 10th Grade Failure Notice                 |                    |
+|                   |                           *0x32 - Home loan Explaination Letter                    |                    |
+|                   |                           *0x33 - Adams Termination Letter                         |                    |
+|                   |                                                                                    |                    |
+|                   |                         *0x40 - Conclusion                                         |                    |
+|       .''.        |                           *0x41 - Ending Notes                                     | .''.             *'|
+|      :_\/_:   .   |                                                                                    |:_\/_:   .    .:.*_\|
+|  .''.: /\ : _\(/_ |                                                                                    |: /\ : _\(/_  ':'* /|
+| :_\/_:'.:::. /)\*'|                                                                                    |:'.:::. /)\*''*  .|.|
+| : /\ : :::::  '*_\|                                                                                    |: :::::  '*_\/_* | ||
+|  '..'  ':::'   * /|                                                                                    |  ':::'   * /\ * |'||
+|      *        __*.|                                                                                    |*        __*..* |  ||
+|       _*   .-'   '|                                                                                    | _*   .-'   '-. |  ||
+|    .-'|  _.|  |   |                                              .                                     |'|  _.|  |    ||   '|
+|    |' | |.    |   [====================================================================================] | |.    |    ||    |
+| ___|  '-'     '    ""       '-'   '-.'                                                   '`      |____|  '-'     '    ""    |
++-----------------------------------------------------------------------------------------------------------------------------+
+|                    ,:',:`,:'       HELP I'M ABOUT                                                                           |
+|                 __||_||_||_||__  / TO FUCKING SINK                                                    ________  h___        |
+|            ____["""""""""""""""]____                           __        __      _____       ___     |        | |  L|_      |
+|            \ " '''''''''''''''''''' \                        _/ L\__   _| L\__  |    L\_   _/  L\__  |  DOX   |_|     |     |
+|      ~^~^~^~^~^^~^~^~^~^~^~^~^~~^~^~^^~~^~^                 '-o---o-' '-o---o-' '-O---O-' '=o----o-' '-OO----`OO----O-'     |
++-----------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                             |
+|       /$$$$$$             /$$                               /$$                       /$$     /$$                           |
+|      |_  $$_/            | $$                              | $$                      | $$    |__/                           |
+|        | $$   /$$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$   /$$$$$$$ /$$   /$$  /$$$$$$$ /$$$$$$   /$$  /$$$$$$  /$$$$$$$        |
+|        | $$  | $$__  $$|_  $$_/   /$$__  $$ /$$__  $$ /$$__  $$| $$  | $$ /$$_____/|_  $$_/  | $$ /$$__  $$| $$__  $$       |
+|        | $$  | $$  \ $$  | $$    | $$  \__/| $$  \ $$| $$  | $$| $$  | $$| $$        | $$    | $$| $$  \ $$| $$  \ $$       |
+|        | $$  | $$  | $$  | $$ /$$| $$      | $$  | $$| $$  | $$| $$  | $$| $$        | $$ /$$| $$| $$  | $$| $$  | $$       |
+|       /$$$$$$| $$  | $$  |  $$$$/| $$      |  $$$$$$/|  $$$$$$$|  $$$$$$/|  $$$$$$$  |  $$$$/| $$|  $$$$$$/| $$  | $$       |
+|      |______/|__/  |__/   \___/  |__/       \______/  \_______/ \______/  \_______/   \___/  |__/ \______/ |__/  |__/       |
+|                                                                                                                             |
++-- Introduction ------------------------------------------------------------------------------------------------------*0x00--+
+|                                                                                                                             |
+|  Hello!                                                                                                                     |
+|                                                                                                                             |
+|       I met AK-47 a long time ago back before he was some hardcore roleplay hacker. When I met him he wasjust an autistic   |
+|   staff member on ParaPots. I  don't know what triggered him to be some scary roleplay hacker, but after a while of knowing |
+|   him it seemed like he knew his autism was terminal and he ran to the skidside.                                            |
+|                                                                                                                             |
+|       I had given him access to some of my servers to  help him get experience with server management because I had known   |
+|   him for 2 years previously and he had never done anything scummy. About a month after giving him access to my servers     |
+|   I caught him selling private possessions off of my servers. After I realized he had been profiting from my hard work, I   |
+|   told him to give me all funds that he made from his larcen and he refused to do so.                                       |
+|                                                                                                                             |
+|      The following documents are all because of his mistakes. He had this coming for a long time and I'm suprised no one    |
+|   else was smart enough to get accurate information. To the people who think he is this "Kaden Ramero" person, you are      |
+|   fucking idiots. I know drake said he doxed him by triangulating his IP (LOL) but obviously hes full of shit.              |
+|                                                                                                                             |
++--------------+-------------------+---------------------------------------------------------------------------------- *0x01 -+
+| Offenses     | Date of Occurence | Evidence                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------+
+| Big Doxing!  | 4/4/2018          | https://doxbin.org/Enrique                                                               |
+|              | 6/15/2017         | https://i.imgur.com/uWWX5kI.png                                                          |
+|              |                   |                                                                                          |
+| Bomb Threats!| 4/16/2018         | https://i.imgur.com/o3FX0VL.png                                                          |
+|              |                   | https://i.imgur.com/PR7gLwd.png                                                          |
+|              |                   |                                                                                          |
+| Swatting!    | 7/9/2017          | https://i.imgur.com/cg5xnTU.png                                                          |
+|              |                   |                                                                                          |
+| Egotistical! | 7/22/2018         | https://i.imgur.com/HqN82P6.png                                                          |
+|              | 7/18/2018         | https://i.imgur.com/IEBT9j5.png                                                          |
+|              |                   | https://i.imgur.com/98dNowd.png                                                          |
+|              |                   |                                                                                          |
+| Edating!     | All year 24/7     | https://i.imgur.com/8qIv5m2.png                                                          |
+|              |                   |                                                                                          |
++-- Verification ----------------------------------------------------------------------------------------------------- *0x02 -+
+|                                                                                                                             |
+|      A fuck load of this information is already known to people who were his friends before he turned into an idiot         |
+|  roleplay hacker. His weak point was his brother, as you will find out later in the document. Him and his older brother     |
+|  (Adam) were pretty much the same person only that his brother (Adam) did not take his security as serious  as Ak-47 did.   |
+|  So thats what who we targetted. His brother (Adam) didn't turn out to be a faggot like AK-47, so it sucks that he had      |
+|  to be included in this as collateral but he is related to the issue and could have prevented this.                         |
+|                                                                                                                             |
++--------------------------------------------------------------------------------------------------------------------- *0x10 -+
+#########################################################################################################|       |#############
+ ,--.,--.  ,--. ,---.   ------.,------. ,--------.     ,-----. ,-----. ,--.,--.  ,--.####################|       |#############
+_|  ||  ,'.|  |'   .-'_|  .---'|  .--. ''--.  .--_____'  .--./'  .-.  '|  ||  ,'.|  |____________________|       |____________
+ |  ||  |' '  |`.  `-. |  `--, |  '--'.'   |  |       |  |    |  | |  ||  ||  |' '  |       ,--.    ,--.          ,--.   ,--.
+ |  ||  | `   |.-'    ||  `---.|  |\  \    |  |       '  '--'\'  '-'  '|  ||  | `   |      |oo  | _  \  `.       | oo | |  oo|
+ `--'`--'  `--'`-----' `------'`--' '--'   `--'      O `-----' `-----'o`--'`--'o `--'  o  o|~~  |(_) /   ;       | ~~ | |  ~~|
+                           -TO PROCEED TO THE DOX-                                         |/\/\|   '._,'        |/\/\| |/\/\|
+_________________________________________________________________________________________________________        ______________
+#########################################################################################################|       |#############
+#########################################################################################################|       |#############
++-- Personal Information --------------------------------------------------------------------------------------------- *0x11 -+
+|                                                                                                                             |
+|                                                                                                                             |
+| Full name:                                                                                                                  |
+|         Caden "Nathaniel" Alvarado                                          _____________________                           |
+|                                                          /  .       .      (#####)                          |
+| Ethnicity:                                              .      .     .  _/~~~~~~~~~~~~~~~~~~~~~~~~~\_   .       .   .   \   |
+|         very mexican                                 .(          . .  /~                             ~\ . .   .             |
+|                                                        ( . .        .~                                 ~.      .         )  |
+| Phone:                                                          ()\/_____                           _____\/()   .    .  ).  |
+|         (951) 217-2059                               (         .-''      ~~~~~~~~~~~~~~~~~~~~~~~~~~~     ``-.  ...          |
+|          Account #: 370415892-00001                  .  . . .-~              __________________              ~-.  .    /    |
+|      CNAM:                                            .   ..`~~/~~~~~~~~~~~~TTTTTTTTTTTTTTTTTTTT~~~~~~~~~~~~\~~'    . ) .   |
+|          "Caller_Name": "CADEN ALVARADO",                . .| | | #### #### || | | | [] | | | || #### #### | | | .          |
+|          "Carrier": "Verizon Wireless"                  (   ;__\|___________|++++++++++++++++++|___________|/__;.   .       |
+|          "type": "mobile"                                 .  (~~====___________________________________====~~~)             |
+|      Details:                                         ( .  .. \------_____________[ POLICE ]__________-------/ ..  .     )  |
+|           Apple iPhone 6 16GB in Silver                       .  |      ||         ~~~~~~~~       ||      |                 |
+|           Sim ID: 89148000001604151182                            \_____/                          \_____/                  |
+|           IMEI: 359238062897858                                                                                             |
+|                                                                                                                             |
+| Address:                                                                                                                    |
+|     9700 Cabrillo Dr                                                                                                        |
+|     Riverside,CA 92503, United States                                                                                       |
+|                                                                                                                             |
+| School:                                                                                                                     |
+|     Online Schooling (And his summer school because he failed)                                                              |
+|     http://dhcentralcharter.org                                                                                             |
+|     Phone #: (619) 268-6799                                                                                                 |
+|     His Teachers info:                                                                                                      |
+|           Name: April Paustian-Weiner                                                                                       |
+|           Subject: English                                                                                                  |
+|           Email: apaustin@dhcentralcharter.org                                                                              |
+|    Previous School he failed at:                                                                                            |
+|    Summit View Independent Study School                                                                                     |
+|    Address: 6401 Lincoln Ave, Riverside, CA 92506                                                                           |
+|    Phone: (951) 276-7670                                                                                                    |
+|    Website: http://eoc.riversideunified.org/schools/summit_view                                                             |
+|    Proof of failing: https://i.imgur.com/81mledC.png                                                                        |
+|                                                                                                                             |
++-- Online Account Information --------------------------------------------------------------------------------------- *0x12 -+
+|                                                                                                                             |
+| Aliases:                                                                                                                    |
+|         Ak-47                                                                                                               |
+|         Woahs                                                                         /`-._      _,                         |
+|         Kaden Romero                                                                 /      `-._(  \                        |
+|         Caden                                                                       /           \\  \                       |
+|         SpoofedAttack                                                              /             \\  \`-._                  |
+|         PvpIsHardcore                                                             /           .   \\  \    `-._             |
+|                                                                                  /           :).   \\  \        `-.         |
+| Email:                                                                          /           ./;.    \\  \         /         |
+|         pvpishardcore@gmail.com                                                /           .;'       \\  \       /          |
+|         cade610@sbcglobal.net (gone)                                          /   .        .          \\  \     /           |
+|                                                                              /  .; ):.   __________    \\  \   /            |
+| Internet Information:                                                       /   . :" '  |~~_~__ _  |    \\(_) /             |
+|         Current ISP: Spectrum                                              /       '    ) (_=__=_) (     \(.`/              |
+|         Account #: 8245100614239321                                        `-._         |-_________|        /               |
+|                 Modem:                                                          `-._                       /                |
+|                         Manufacturer: Arris                                          `-._                 /                 |
+|                         Model: TM1602A MTA                                                `-._           /                  |
+|                 Router:                                                                        `-._     /                   |
+|                         Manufacturer: Netgear                                                       `-./                    |
+|                         Model: WND46399C                                                                                    |
+|                                                                                                                             |
+|         Previous IPs:                                                                                                       |
+|                 162.192.139.144 AT&amp;T                                                                                        |
+|                 76.202.53.6 AT&amp;T                                                                                            |
+|                 76.202.53.238 AT&amp;T                                                                                          |
+|                                                                                                                             |
+| Social Media/ Online Accounts:                                                                                              |
+|         Twitter: @SpoofedAttack                                                                                             |
+|         Telegram: @Smelly                                                                                                   |
+|         Discord: HIS DISCORD USES UNICODE SO IT FUCKS UP MY DOX                                                             |
+|                 Discord server: discord.gg/YNXzPVM                                                                          |
+|         Minecraft: Woahs                                                                                                    |
+|                 UUID: 3400621b-b2ac-453a-b680-64cf9a3564bc                                                                  |
+|         Skype(s):                                                                                                           |
+|                 childnudes                                                                                                  |
+|                 cadenplaysminecraft                                                                                         |
+|                 live:pvpishardcore                                                                                          |
+| Website(s):                                                                                                                 |
+|         https://victim.cc/                                                                                                  |
+|         https://leak.rip/                                                                                                   |
+|         https://scary.site/                                                                                                 |
+|                                                                                                                             |
++-- Call History ----------------------------------------------------------------------------------------------------- *0x13 -+
+
+
+           Date      Time        Number       Origination      Destination    Min.   Charges   Other   Chgs   Total
+          --------- --------- -------------- ---------------- --------------- ------ --------- ------- ------ -------
+           June-2    8:30PM    951.227.2334   Riverside,-CA    Incoming,-CL      14   --        --      -
+           June-4    4:30PM    951.776.7940   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-5    10:50AM   951.776.7939   Moreno-Val,-CA   Incoming,-CL       1   --        --      -
+           June-5    11:00AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-5    3:10PM    951.776.7940   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-5    3:20PM    951.776.7940   Riverside,-CA    Incoming,-CL       4   --        --      -
+           June-6    9:50AM    951.776.7939   Moreno-Val,-CA   Incoming,-CL       1   --        --      -
+           June-6    10:00AM   909.399.5472   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-6    10:10AM   909.399.5472   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-6    2:00PM    951.215.5238   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-6    10:10PM   951.215.5238   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-7    9:20AM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-7    2:30PM    951.776.7940   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-7    7:20PM    951.776.7939   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-7    10:40PM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-8    11:00AM   951.776.7939   Riverside,-CA    Woodcrest,-CA      2   --        --      -
+           June-8    11:10AM   951.776.7939   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-8    11:10AM   951.776.7939   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-8    11:40AM   951.776.7940   Riverside,-CA    Incoming,-CL       4   --        --      -
+           June-8    12:10PM   951.776.7939   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-8    12:40PM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-8    4:10PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-8    8:30PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-8    8:50PM    951.227.2334   Riverside,-CA    Incoming,-CL       5   --        --      -
+           June-9    1:30PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-9    7:00PM    951.215.5238   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-9    8:30PM    951.215.5238   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-10   12:40PM   951.776.7940   Riverside,-CA    Woodcrest,-CA      2   --        --      -
+           June-11   10:50AM   951.776.7939   Riverside,-CA    Woodcrest,-CA      1   --        --      -
+           June-11   11:00AM   951.776.7939   MorenoVal,-CA    Woodcrest,-CA      1   --        --      -
+           June-11   11:00AM   951.776.7939   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-11   11:20AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-11   4:20PM    951.776.7940   Riverside,-CA    Woodcrest,-CA      1   --        --      -
+           June-12   12:50AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-12   1:30AM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-12   6:00PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-12   6:00PM    951.776.7940   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-12   6:40PM    951.227.2334   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-12   6:40PM    951.227.2334   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-13   8:30AM    951.215.5238   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-13   2:20PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-13   2:30PM    951.776.7939   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-13   4:10PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-13   4:40PM    951.776.7939   Riverside,-CA    Incoming,-CL       4   --        --      -
+           June-13   7:40PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-15   11:40AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-15   11:40AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-15   11:40AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-15   1:20PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-15   1:20PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-15   1:30PM    951.776.7939   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-15   1:40PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-15   4:10PM    951.776.7940   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-18   12:00PM   951.215.5238   Riverside,-CA    Woodcrest,-CA      1   --        --      -
+           June-18   12:00PM   951.776.7939   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-18   12:20PM   951.215.5238   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-18   12:40PM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-18   12:50PM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-18   4:40PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-19   1:40PM    951.776.7939   Riverside,-CA    Incoming,-CL       4   --        --      -
+           June-19   2:40PM    951.776.7939   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-19   4:40PM    951.215.5238   Riverside,-CA    Incoming,-CL       7   --        --      -
+           June-20   7:10PM    951.215.5238   Riverside,-CA    Incoming,-CL       8   --        --      -
+           June-20   11:10PM   951.776.7939   Riverside,-CA    Woodcrest,-CA      1   --        --      -
+           June-21   4:00PM    951.776.7940   Moreno-Val,-CA   Incoming,-CL       1   --        --      -
+           June-21   4:00PM    951.776.7940   Riverside,-CA    Woodcrest,-CA      7   --        --      -
+           June-21   4:10PM    951.776.7939   Riverside,-CA    Woodcrest,-CA      1   --        --      -
+           June-21   5:10PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-21   8:40PM    951.776.7939   Riverside,-CA    Woodcrest,-CA      1   --        --      -
+           June-22   3:20AM    951.215.5238   Riverside,-CA    Woodcrest,-CA     19   --        --      -
+           June-22   3:40AM    951.215.5238   Moreno-Val,-CA   Incoming,-CL       1   --        --      -
+           June-22   11:40AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-22   11:50AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-23   6:10PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-23   8:20PM    951.776.7940   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-24   10:40AM   951.215.5238   Corona,-CA       Incoming,-CL       2   --        --      -
+           June-24   5:10PM    951.776.7939   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-25   11:10AM   951.776.7940   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-25   2:00PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-25   2:30PM    951.776.7940   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-26   5:00PM    951.776.7940   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-27   11:00AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-27   12:00PM   951.776.7939   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-27   2:00PM    951.776.7940   Riverside,-CA    Incoming,-CL       2   --        --      -
+           June-27   2:40PM    951.227.2334   Riverside,-CA    Corona,-CA        11   --        --      -
+           June-27   4:10PM    951.215.5238   Riverside,-CA    Woodcrest,-CA      2   --        --      -
+           June-27   5:00PM    951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-28   11:40AM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-28   12:00PM   951.776.7939   Riverside,-CA    Incoming,-CL       3   --        --      -
+           June-28   12:40PM   951.776.7940   Riverside,-CA    Incoming,-CL       5   --        --      -
+           June-28   1:30PM    951.776.7940   Riverside,-CA    Incoming,-CL       4   --        --      -
+           June-28   1:50PM    951.776.7940   Riverside,-CA    Woodcrest,-CA      6   --        --      -
+           June-29   12:00PM   951.776.7940   Riverside,-CA    Woodcrest,-CA      2   --        --      -
+           June-29   12:10PM   951.215.5238   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-29   12:30PM   951.776.7939   Riverside,-CA    Incoming,-CL       1   --        --      -
+           June-29   2:50PM    951.776.7939   Riverside,-CA    Incoming,-CL       5   --        --      -
+           June-29   3:00PM    951.776.7939   Riverside,-CA    Incoming,-CL       3   --        --      --
+######################################################################################################################## 0x20 #
+                                            _{\ _{\{\/}/}/}__                                       ;   :   ;
+                                           {/{/\}{/{/\}(\}{/\} _                                 .   \_,!,_/   ,
+                                          {/{/\}{/{/\}(_)\}{/{/\}  _                              `.,'     `.,'
+                                       {\{/(\}\}{/{/\}\}{/){/\}\} /\}                              /         \
+                                      {/{/(_)/}{\{/)\}{\(_){/}/}/}/}                          ~ -- :         : -- ~
+                                     _{\{/{/{\{/{/(_)/}/}/}{\(/}/}/}                               \         /
+                                    {/{/{\{\{\(/}{\{\/}/}{\}(_){\/}\}                             ,'`._   _.'`.
+                                    _{\{/{\{/(_)\}/}{/{/{/\}\})\}{/\}                            '   / `!` \   `
+                                   {/{/{\{\(/}{/{\{\{\/})/}{\(_)/}/}\}                              ;   :   ;
+                                    {\{\/}(_){\{\{\/}/}(_){\/}{\/}/})/}
+                                     {/{\{\/}{/{\{\{\/}/}{\{\/}/}\}(_)
+                                    {/{\{\/}{/){\{\{\/}/}{\{\(/}/}\}/}
+                                     {/{\{\/}(_){\{\{\(/}/}{\(_)/}/}\}
+                                       {/({/{\{/{\{\/}(_){\/}/}\}/}(\}
+                                        (_){/{\/}{\{\/}/}{\{\)/}/}(_)
+                                          {/{/{\{\/}{/{\{\{\(_)/}
+                                           {/{\{\{\/}/}{\{\\}/}
+                                            {){/ {\/}{\/} \}\}
+                                            (_)  \.-'.-/
+                                        __...--- |'-.-'| --...__
+                                 _...--"   .-'   |'-.-'|  ' -.  ""--..__                                      _,.--..,,
+                      _,,......,"    ' .  . '    |.'-._| '  . .  '   jr`.,,,____,,,,,,,,,,,,,,,,_      _,..-'`         ```''-
+           ,-`````````         .  '-  '    .--'  | '-.'|    .  '  . '                            ``````
+      _,.'`              _   _,         ' ..     |'-_.-|                  '.
+---'``         ''-,__   /       .  '  .       _.-|-._ -|-._  .  '  .   |        \
+                        `                   .'   |'- .-|   '.           `   ,,   `'-,_                                -------
+ ,,,                            ..-'   ' .  '.   `-._.-|   .'  '  - .         ```     `'-.,_
+    `-     ,,          _  _-`'   .-' '        '-._______.-'     '  .                        ``''------         `.
+             `.,        ``            .      ~,                \-                                                ````'''''''''
+                ,                 .       .   |\   .    ' '-.            '.,
+                    _             ___________/  \____________    .          ``
+                    \            /  I guess you could call   \    `',
+             _,                 |  this the family tree cuz   |      ``'--.           '.,,,,___
+`````````````    ,,,,           |   its the part about his    |                                ```````'''''-----.
+                     ``'        |         family lmao         |
+                        `\       \___________________________/
+                          ,
+                          '
+
++--------------------------------------------------------------------------------------------------------------------- *0x21 -+
+|                                     _____   _              _____ _                   _                                      |
+|                                    |  _  |_| |___ _____   |  _  | |_ _ ___ ___ ___ _| |___                                  |
+|                                    |     | . | .'|     |  |     | | | | .'|  _| .'| . | . |                                 |
+|                                    |__|__|___|__,|_|_|_|  |__|__|_|\_/|__,|_| |__,|___|___|                                 |
+|                                                                                                                             |
+|                                     The one person who could've prevented this                                              |
+|                                     AKA. His brother.                                                                       |
++-- Personal Information --------------------------------------------------------------------------------------------- *0x22 -+
+|                                                                                                                             |
+|   Name:                                                                                                                     |
+|           Adam Alvarado                                                                                                     |
+|                                                                                                                             |
+|   DOB:                                                                                                                      |
+|           12/13/1998                                                                                                        |
+|                                                                                                                             |
+|   Phone:                                                                +----------------------------------------+          |
+|           (951) 215-5238 [LOL HE CHANGED HIS NUMBER HAHA]               |                                        |          |
+|           New number: (714) 951-7332 [CHANGED AGAIN LOL]                | Funny story, when I jacked his verizon |          |
+|           Account #: 370415892-00001                                    | I was looking at his call history for  |          |
+|           CNAM:                                                         | the month of July and I noticed a      |          |
+|            "Caller_Name": "ADAM ALVARADO",                              | number that wasnt in his contacts.     |          |
+|            "Carrier": "Verizon Wireless"                                | Turns out it was his local PD LOL.     |          |
+|            "type": "mobile                                              |                                        |          |
+|        Details:                                                         /----------------------------------------\          |
+|             Apple iPhone 6 16GB in Gold                                 |                                        |          |
+|             SIM ID: 89148000001602254558                                | proof: https://i.imgur.com/rnBOUkD.png |          |
+|             IMEI: 354444064102660                                       |        https://i.imgur.com/P6C7fUg.png |          |
+|                                                                         |                                        |          |
+|   Address:                                                              \----------------------------------------/          |
+|       9700 Cabrillo Dr                                                                                                      |
+|       Riverside,CA 92503, United States                                                                                     |
+|                                                                                                                             |
+|   SSN:                                                                                                                      |
+|       xxx-xx-3544                                                                                                           |
+|                                                                                                                             |
+|   Car Information:                                                                                                          |
+|           2011 Nissan Sentra                                                                                                |
+|           Licenses Plate: 6TDN991                                                                                           |
+|           VIN: 3N1AB6AP3BL726621                                                                                            |
+|                                                                                                                             |
+|   Previous Employer:                                                                                                        |
+|           Golden State FC LLC                                                                                               |
+|           Termination cause: Job abandonment                                                                                |
+|           EEID: 102776418                                                                                                   |
+|                                                                                                                             |
++-- Online Informaion ------------------------------------------------------------------------------------------------ *0x23 -+
+|                                                                                                   ,--.                      |
+|   Alias:                                                                                         {    }                     |
+|           AXC                                                                                    K,   }                     |
+|           Adam                                                                                  /  ~Y`                      |
+|           AdamBomb1213                                                                     ,   /   /                        |
+|           godmotor                                                                        {_'-K.__/                         |
+|           Angel                                                                             `/-.__L._                       |
+|                                                                                             /  ' /`\_}                      |
+|   Emails:                                                                                  /  ' /                           |
+|           alvarado1213@sbcglobal.net (jacked lol)                                  ____   /  ' /                            |
+|           1213gasmask@gmail.com                                             ,-'~~~~    ~~/  ' /_                            |
+|           daddyangel@protonmail.com                                       ,'             ``~~~  ',                          |
+|           adamsawesome@icloud.com                                        (                        Y                         |
+|                                                                         {                         I                         |
+|   Common Passwords:                                                    {      -                    `,                       |
+|           adamA1213                                                    |       ',                   )                       |
+|           aaa1213                                                      |        |   ,..__      __. Y                        |
+|                                                                        |    .,_./  Y ' / ^Y   J   )|                        |
+|   Accounts:                                                            \           |' /   |   |   ||                        |
+|           Minecraft: AXC                                                \          L_/    . _ (_,.'(                        |
+|           UUID: 1045ad4a-29e8-49ed-bae3-4071c0e46a22                     \,   ,      ^^""' / |      )                       |
+|           Minecraft: FoiL                                                  \_  \          /,L]     /                        |
+|           UUID:-346355f4-f5a4-450d-8bbf-e318aa3c1353                         '-_~-,       ` `   ./`                         |
+|           Snapchat: fuxadam                                                     `'{_            )                           |
+|           Twitter: https://twitter.com/AngelDrips                                   ^^\..___,.--`                           |
+|                                                                                                                             |
++-- Call History ----------------------------------------------------------------------------------------------------- *0x24 -+
+|                                                                                                                             |
+|        ...........................................................................................................          |
+|        :  Date  :  Time   :    Number    :  Origination  :  Destination  : Min. : Charges : Other : Chgs : Total :          |
+|        :........:.........:..............:...............:...............:......:.........:.......:......:.......:          |
+|        : June2  : 5:12PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June2  : 5:14PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    3 : --      : --    :    - :       :          |
+|        : June2  : 5:27PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June3  : 3:17PM  : 951.264.4311 : Riverside,CA  : Incoming,CL   :    3 : --      : --    :    - :       :          |
+|        : June3  : 3:54PM  : 951.264.4311 : Riverside,CA  : Incoming,CL   :   43 : --      : --    :    - :       :          |
+|        : June5  : 1:21AM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    4 : --      : --    :    - :       :          |
+|        : June5  : 6:53PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June6  : 12:39PM : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June6  : 1:07PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June6  : 1:39PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June6  : 2:06PM  : 951.217.2059 : Riverside,CA  : Riverside,CA  :    2 : --      : --    :    - :       :          |
+|        : June6  : 6:25PM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June6  : 10:14PM : 951.217.2059 : Riverside,CA  : Riverside,CA  :    3 : --      : --    :    - :       :          |
+|        : June7  : 1:12PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June7  : 7:46PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June8  : 4:16PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June8  : 7:57PM  : 951.217.2059 : Riverside,CA  : VM-Deposit,CL :    1 : --      : --    :    - :       :          |
+|        : June9  : 12:18PM : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June9  : 2:02PM  : 951.776.7939 : LA-Puente,CA  : Woodcrest,CA  :    2 : --      : --    :    - :       :          |
+|        : June9  : 3:24PM  : 951.776.7939 : LA-Puente,CA  : Woodcrest,CA  :    4 : --      : --    :    - :       :          |
+|        : June9  : 7:00PM  : 951.217.2059 : Riverside,CA  : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June9  : 8:32PM  : 951.217.2059 : Riverside,CA  : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June9  : 8:33PM  : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June9  : 8:38PM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June10 : 10:32AM : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June10 : 4:40PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June10 : 6:03PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June11 : 4:26AM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June11 : 8:34PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June12 : 12:35AM : 951.776.7939 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June12 : 1:40AM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June12 : 8:27PM  : 951.217.9778 : Riverside,CA  : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June13 : 8:31AM  : 951.217.2059 : Riverside,CA  : Riverside,CA  :    2 : --      : --    :    - :       :          |
+|        : June14 : 1:52PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June14 : 5:50PM  : 951.776.7940 : Irvine,CA     : Woodcrest,CA  :    2 : --      : --    :    - :       :          |
+|        : June14 : 7:31PM  : 951.776.7939 : Corona,CA     : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June15 : 11:14PM : 951.217.9778 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June18 : 7:14AM  : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June18 : 12:03PM : 951.217.2059 : Rancho-Cuc,CA : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June18 : 12:23PM : 951.217.2059 : Rancho-Cuc,CA : Riverside,CA  :    3 : --      : --    :    - :       :          |
+|        : June18 : 3:55PM  : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    3 : --      : --    :    - :       :          |
+|        : June18 : 6:35PM  : 951.217.9778 : Corona,CA     : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June18 : 7:23PM  : 951.217.9778 : Corona,CA     : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June18 : 7:23PM  : 951.217.9778 : Corona,CA     : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June18 : 7:23PM  : 951.217.9778 : Corona,CA     : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June18 : 7:30PM  : 951.217.9778 : Corona,CA     : Riverside,CA  :    2 : --      : --    :    - :       :          |
+|        : June18 : 8:05PM  : 424.666.9706 : Riverside,CA  : Beverlyhls,CA :    4 : --      : --    :    - :       :          |
+|        : June19 : 6:04AM  : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June19 : 4:46PM  : 951.217.2059 : Riverside,CA  : Riverside,CA  :    7 : --      : --    :    - :       :          |
+|        : June20 : 1:25PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June20 : 7:15PM  : 951.217.2059 : Riverside,CA  : Riverside,CA  :    8 : --      : --    :    - :       :          |
+|        : June21 : 4:02PM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    3 : --      : --    :    - :       :          |
+|        : June21 : 4:04PM  : 951.217.9778 : Riverside,CA  : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June21 : 5:16PM  : 951.217.9778 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June22 : 3:23AM  : 951.217.2059 : Riverside,CA  : Incoming,CL   :   19 : --      : --    :    - :       :          |
+|        : June22 : 3:42AM  : 951.217.2059 : Riverside,CA  : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June22 : 10:54PM : 951.217.2059 : Riverside,CA  : VM-Deposit,CL :    1 : --      : --    :    - :       :          |
+|        : June23 : 4:23PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    2 : --      : --    :    - :       :          |
+|        : June23 : 5:57PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June23 : 6:08PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    2 : --      : --    :    - :       :          |
+|        : June23 : 6:11PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June23 : 6:37PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June23 : 6:42PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June23 : 8:23PM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June24 : 5:57AM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June24 : 9:45AM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June24 : 9:58AM  : 951.776.7939 : Norco,CA      : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June24 : 10:43AM : 951.217.2059 : Corona,CA     : Riverside,CA  :    2 : --      : --    :    - :       :          |
+|        : June25 : 2:07PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June25 : 2:08PM  : 951.776.7940 : MorenoVal,CA  : Woodcrest,CA  :    2 : --      : --    :    - :       :          |
+|        : June25 : 2:09PM  : 951.776.7939 : MorenoVal,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June25 : 2:34PM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June26 : 10:28AM : 951.776.7940 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June26 : 11:01AM : 951.776.7939 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June26 : 11:04AM : 951.784.6430 : Riverside,CA  : Riverside,CA  :    6 : --      : --    :    - :       :          |
+|        : June26 : 7:47PM  : 951.275.5076 : Riverside,CA  : Riverside,CA  :    2 : --      : --    :    - :       :          |
+|        : June26 : 8:41PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June27 : 12:34PM : 951.776.7939 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June27 : 4:18PM  : 951.217.2059 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June27 : 4:24PM  : 951.776.7940 : Riverside,CA  : Incoming,CL   :    2 : --      : --    :    - :       :          |
+|        : June27 : 4:29PM  : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    3 : --      : --    :    - :       :          |
+|        : June27 : 4:38PM  : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    4 : --      : --    :    - :       :          |
+|        : June28 : 1:13PM  : 951.898.4712 : Riverside,CA  : Corona,CA     :    8 : --      : --    :    - :       :          |
+|        : June28 : 10:22PM : 951.776.7940 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June29 : 11:16AM : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :   10 : --      : --    :    - :       :          |
+|        : June29 : 11:53AM : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :   11 : --      : --    :    - :       :          |
+|        : June29 : 12:04PM : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    3 : --      : --    :    - :       :          |
+|        : June29 : 12:06PM : 951.217.2059 : MorenoVal,CA  : VM-Deposit,CL :    1 : --      : --    :    - :       :          |
+|        : June29 : 12:06PM : 951.217.2059 : MorenoVal,CA  : VM-Deposit,CL :    1 : --      : --    :    - :       :          |
+|        : June29 : 12:06PM : 951.776.7939 : MorenoVal,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : June29 : 12:10PM : 951.217.2059 : Riverside,CA  : Riverside,CA  :    1 : --      : --    :    - :       :          |
+|        : June29 : 12:29PM : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June29 : 3:08PM  : 951.776.7939 : Riverside,CA  : Incoming,CL   :    1 : --      : --    :    - :       :          |
+|        : June29 : 3:12PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    2 : --      : --    :    - :       :          |
+|        : June29 : 3:20PM  : 951.217.9778 : Riverside,CA  : Incoming,CL   :    4 : --      : --    :    - :       :          |
+|        : June29 : 6:37PM  : 951.776.7939 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        : Jul1   : 8:54PM  : 951.217.2059 : Riverside,CA  : VM-Deposit,CL :    1 : --      : --    :    - :       :          |
+|        : Jul1   : 8:54PM  : 951.776.7940 : Riverside,CA  : Woodcrest,CA  :    1 : --      : --    :    - :       :          |
+|        :........:.........:..............:...............:...............:......:.........:.......:......:.......:          |
+|                                                                                                                             |
++--------------------------------------------------------------------------------------------------------------------- *0x25 -+
+|                                                                                                                             |
+|                                  _____ _                _____ _                   _                                         |
+|                                 |  _  | |___ _ _ ___   |  _  | |_ _ ___ ___ ___ _| |___                                     |
+|                                 |     | | -_|_'_| .'|  |     | | | | .'|  _| .'| . | . |                                    |
+|                                 |__|__|_|___|_,_|__,|  |__|__|_|\_/|__,|_| |__,|___|___|                                    |
+|                                 The woman that should've grounded him when she had the chance                               |
+|                                 AKA: His mother                                                                             |
++-- Personal Information --------------------------------------------------------------------------------------------- *0x26 -+
+|                                                                                                                             |
+|  Name:                                                                                                                      |
+|          Alexa "Anastasia" Alvarado                                                     .-=-.          .--.                 |
+|          Maiden name: Robson                                                __        .'     '.       /  " )                |
+|                                                                     _     .'  '.     /   .-.   \     /  .-'\                |
+|  DOB:                                                              ( \   / .-.  \   /   /   \   \   /  /    ^               |
+|          01-27-1972                                                 \ `-` /   \  `-'   /     \   `-`  /                     |
+|                                                                      `-.-`     '.____.'       `.____.'                      |
+|  Phone Information:                                                                                                         |
+|          (951) 776-7939                                                                                                     |
+|          Account #: 370415892-00001                                                                                         |
+|                CNAM:                                                                                                        |
+|                    "Caller_Name": "ALEXA ALVARADO",                                                                         |
+|                    "Carrier": "Verizon Wireless"                                                                            |
+|                    "type": "mobile                                                                                          |
+|                Details:                                                                                                     |
+|                       Apple iPhone6 64GB in Silver                                                                          |
+|                     SIM ID: 89148000001617040208                                                                            |
+|                     IMEI: 358371065110260                                                                                   |
+|                                                                                                                             |
+|  Address:                                                                                                                   |
+|      9700 Cabrillo Dr                                                                                                       |
+|      Riverside,CA 92503, United States                                                                                      |
+|      Past addreses:                                                                                                         |
+|          359 Orange St Riverside, CA 92501                                                                                  |
+|                  3771 Hillside Ave Norco, CA 92860                                                                          |
+|                  3771 Hillside Ave Riverside, CA 91760                                                                      |
+|                  2343 Orange St Riverside, CA 92501                                                                         |
+|                                                                                                                             |
+|  SSN:                                                                                                                       |
+|          573-89-0643                                                                                                        |
+|                                                                                                                             |
+|  Car Information:                                                                                                           |
+|          Model: 2008 Honda CR-V                                                                                             |
+|          License Plate: 6B0V857                                                                                             |
+|          VIN: JHLRE38518C008681                                                                                             |
+|          Geico policy number: 4406129355                                                                                    |
+|                  NAIC:  22055                                                                                               |
+|          Insured Drivers:                                                                                                   |
+|                  Adam  Alvarado                                                                                             |
+|                  Claudia  Alvarado                                                                                          |
+|                                                                                                                             |
+|                                                                                                                             |
+|  Credit Card Information:                                                                                                   |
+|          Type: MasterCard                                                                                                   |
+|          Last four digits: 6823                                                                                             |
+|                                                                                                                             |
+|  Credit Information:                                                          ,^~~~-.         .-~~~"-.                      |
+|          Trans Union:                                                        :  .--. \       /  .--.  \                     |
+|                  Score: 682                                                  : (    .-`)                 |
+|         Service: DSL Internet                                                   |                         |                 |
+|                                                                                  \._                   _./                  |
+| AT&amp;T Information:                                                                   ```--. . , ; .--'''                     |
+|         Service: Direct-TV                                                                | |   |                           |
+|         Account #: 116550554                                                           .-=||  | |=-.                        |
+|                                                                                        `-=#$%&amp;%$#=-'                        |
+| Phone Contacts:                                                                           | ;  :|                           |
+|                                                                                  _____.,-#%&amp;$@%#&amp;#~,._____                  |
+|.............................................................................................................................|
+|    "First Name"              : "Last Name" : "Business Phone" : "Home Phone"       : "Mobile Phone"     : "Other Phone"     |
+|..............................:.............:..................:....................:....................:...................|
+|    "Aaron"                   :             :                  :                    : "+13036672199"     :                   |
+|    "Adam      "              :             :                  :                    : "(951) 215-5238"   :                   |
+|    "Adrian"                  :             :                  :                    : "+17203573985"     :                   |
+|    "Albertina"               :             :                  :                    : "+19513147978"     :                   |
+|    "Alberto -Adam's Friend " :             :                  :                    : "(951) 403-2978"   :                   |
+|    "Alex"                    :             :                  :                    : "(951)850-9448"    :                   |
+|    "Annabelle"               : "Y."        :                  :                    : "(951)966-0364"    :                   |
+|    "Antonio"                 :             :                  : "19096416723"      :                    :                   |
+|    "Attendance Office - NHS" :             :                  : "736-3247"         :                    :                   |
+|    "Aunt"                    : "Rosie"     :                  :                    : "18157864121"      :                   |
+|    "Aveline"                 :             :                  :                    : "(951) 217-1136"   :                   |
+|                              :             :                  :                    : "351-3131"         :                   |
+|    "Beverly"                 : "Wilson"    :                  :                    : "(951) 750-5500"   :                   |
+|    "Bill"                    : "Bowman"    :                  :                    : "+17074984384"     :                   |
+|    "Brianne-Kaylee"          :             :                  :                    : "237-4593"         :                   |
+|    "Caden      "             :             :                  :                    :                    : "(951) 217-2059"  |
+|    "Candie"                  :             :                  :                    : "1 (714) 366-2163" :                   |
+|    "Carlos-Adam's Friend"    :             :                  :                    : "(951) 264-4311"   :                   |
+|    "Carol -Stephanie "       :             :                  :                    : "(951) 961-8774"   :                   |
+|    "Caroline"                :             :                  :                    : "+14065223826"     :                   |
+|    "Cathy"                   : "T"         :                  :                    : "(951)216-4725"    :                   |
+|    "Charlie-cell"            :             :                  :                    : "(951) 227-3196"   :                   |
+|    "Charlie-iphone"          :             :                  :                    :                    : "(951) 741-0417"  |
+|    "Chris-Amanda's Mom"      :             :                  :                    : "(951)515-0321"    :                   |
+|    "Claudia      "           :             :                  :                    : "(951) 217-9778"   :                   |
+|    "Coach Britton"           :             :                  :                    : "(951) 515-3960"   :                   |
+|    "Coach Jay"               : "Arnaiz"    :                  :                    : "(951) 858-5576"   :                   |
+|    "Coach Paulette"          :             :                  :                    : "(562) 477-9821"   :                   |
+|    "Coach Pollard"           :             :                  :                    : "(951) 232-2221"   :                   |
+|    "Coach Smith"             :             :                  :                    :                    : "+19515446731"    |
+|    "Coach"                   : "Kalynn"    :                  : "(951)898-8760"    : "(951)316-0349"    :                   |
+|    "Costco-Corona"           :             :                  :                    : "279-1190"         :                   |
+|    "Curtis-Brooke's"         : "Dad"       :                  :                    : "(951)454-5826"    :                   |
+|    "Cynthia- Jude"           :             :                  :                    : "(909) 379-5370"   :                   |
+|    "Dad"                     :             :                  :                    : "1 (949) 566-3271" :                   |
+|    "Dan"                     :             :                  :                    : "+16199923336"     :                   |
+|    "Dan- Dakota"             :             :                  :                    : "533-4605"         :                   |
+|    "David"                   :             :                  :                    : "(626) 643-9221"   :                   |
+|    "Deanna"                  :             :                  : "(951)509-7713"    : "(951)237-0990"    :                   |
+|    "Debby"                   : "S."        :                  :                    : "(951)500-7464"    :                   |
+|    "Deserae"                 :             :                  :                    : "+17203196648"     :                   |
+|    "Deserae"                 :             :                  :                    : "1(303)621-4303"   :                   |
+|    "Diana- Claudia's Friend" :             :                  :                    : "602-0221"         :                   |
+|    "Diane-Missy's Mom"       :             :                  :                    : "(951)333-7152"    :                   |
+|    "Dr.Harriss"              :             : "(951)782-3683"  :                    : "(951)683-6370"    :                   |
+|    "Dr.Steve"                : "Francis"   :                  :                    : "(951)351-0001"    :                   |
+|    "Erica-Sam's Mom"         :             :                  :                    : "288-3968"         :                   |
+|    "Eva"                     :             :                  :                    : "(951) 258-6265"   :                   |
+|    "Gabby-Brittany's"        : "Mom"       : "19514793424"    : "19517375466"      : "19092403730"      :                   |
+|    "Gary"                    :             :                  :                    : "(951) 315-7410"   :                   |
+|    "Hair Stranz"             :             :                  :                    : "(951) 272-6361"   :                   |
+|    "Heidi-Jess"              :             :                  :                    : "(909) 908-9109"   :                   |
+|    "Home"                    :             :                  : "(951)637-3822"    :                    :                   |
+|    "Indra"                   :             :                  : "(951)302-9399"    : "(951)760-6462"    :                   |
+|    "Isabel-Desarae's"        : "Mom"       :                  : "19512720129"      : "19517417913"      :                   |
+|    "Ivan"                    :             :                  :                    : "(909)226-7471"    :                   |
+|    "Jamba Juice(Amber)"      :             :                  :                    : "358-0819"         :                   |
+|    "Janet-Griffin's Mom"     :             :                  :                    : "515-1948"         :                   |
+|    "Jeanette"                : "M."        :                  :                    : "(951) 643-9484"   :                   |
+|    "Jeanette"                : "Simmons"   :                  :                    : "(909)731-7557"    :                   |
+|    "Jenai"                   :             :                  :                    : "(909)229-4151"    :                   |
+|    "Jesse"                   : "A."        :                  :                    : "(562)697-3767"    :                   |
+|    "Jesse"                   : "A."        :                  :                    : "(951)522-8625"    :                   |
+|    "Jesse"                   : "Cruz"      :                  :                    : "(951) 203-6021"   :                   |
+|    "Judy- Darby's Mom"       :             :                  :                    : "+19518301031"     :                   |
+|    "Julie- Parker's Mom"     :             :                  :                    : "(951) 505-9692"   :                   |
+|    "Keishawn"                :             :                  :                    : "(951)850-7567"    :                   |
+|    "Kevin"                   : "Trishell"  :                  :                    : "+19512039605"     :                   |
+|    "Kristen"                 : "R"         :                  :                    :                    : "+19515294877"    |
+|    "Kristy V."               :             :                  : "1 (714) 983-7846" : "1 (562) 547-4487" :                   |
+|    "Laura- Emily's Mom"      :             :                  :                    : "(951) 237-5198"   :                   |
+|    "Laura-Isaiah"            :             :                  :                    :                    :                   |
+|    "Lauri"                   :             :                  :                    : "5448579"          :                   |
+|    "Leslie-Nathan's Mom"     :             :                  :                    : "1 (909) 227-4126" :                   |
+|    "Liliana-Katia's Mom"     :             :                  :                    :                    : "(951)893-7113"   |
+|    "Lisa -Ryan's Mom"        :             :                  :                    : "(909) 731-7270"   :                   |
+|    "Lisa"                    : "F."        :                  :                    : "3176888"          :                   |
+|    "Lover????"               :             :                  :                    : "(951)776-7940"    :                   |
+|    "Marg"                    :             :                  : "(707) 407-0854"   : "(707) 267-4649"   :                   |
+|    "Marie"                   :             :                  :                    : "(909) 816-5767"   :                   |
+|    "Marisa"                  :             :                  :                    : "(951)288-4538"    :                   |
+|    "Marissa's Mom - Louise"  :             :                  :                    : "+19519568130"     :                   |
+|    "Martha"                  : "O."        :                  :                    : "(951)858-4183"    :                   |
+|    "Mary"                    :             : "(951)235-7751"  : "(951)509-1798"    : "(951)566-6510"    :                   |
+|    "Mary-Daniel (Baseball)"  :             :                  :                    : "(951) 842-8969"   :                   |
+|    "Maybelle-cell"           :             :                  :                    : "1 (602) 448-6468" :                   |
+|    "Megan"                   :             :                  : "(951)360-3797"    : "(951)990-1410"    : "1 (949) 566-1298"|
+|    "Melissa"                 :             :                  : "(951)735-4924"    : "(406) 404-1086"   :                   |
+|    "Michele"                 :             :                  :                    : "(951)830-4539"    :                   |
+|    "Miss A."                 :             :                  :                    : "1 (562) 505-7381" :                   |
+|    "Mom"                     :             :                  : "(951)736-3971"    :                    :                   |
+|    "Monica"                  : "M."        :                  : "(951)785-6530"    : "(951)285-5581"    :                   |
+|    "Monica"                  : "Thompson"  :                  :                    : "+19512334042"     :                   |
+|    "Mr."                     : "Arce"      :                  :                    : "(951) 961-0096"   :                   |
+|    "Mr."                     : "Thomas"    :                  :                    : "(951) 263-8023"   :                   |
+|    "Mrs. Raya"               :             :                  :                    : "(951) 785-9866"   :                   |
+|    "Mrs. Raya"               :             :                  : "(951) 785-9866"   : "(951) 312-3110"   :                   |
+|    "Mrs."                    : "Espino"    :                  :                    : "+19095035884"     :                   |
+|    "Mrs."                    : "Fierro"    :                  :                    : "688-8479"         :                   |
+|    "Nancy"                   :             :                  : "(951)213-6078"    : "(951)258-6020"    :                   |
+|    "Nathan-Adam's Friend"    :             :                  :                    :                    :                   |
+|    "Nathan-Adam's Friend"    :             :                  :                    : "(951) 345-2262"   :                   |
+|    "Nick-Chris"              :             : "(951) 533-0592" : "(951)782-9847"    :                    :                   |
+|    "Noah"                    :             :                  :                    :                    : "1 (949) 566-1297"|
+|    "Norco High School"       :             :                  : "736-3241"         :                    :                   |
+|    "Norma"                   :             :                  : "(951)737-7242"    : "19512131617"      :                   |
+|    "Norma- Claudia's friend" :             :                  : "+19513352891"     :                    :                   |
+|    "Notre Dame HS"           :             :                  :                    : "(951) 275-5896"   :                   |
+|    "Pauline"                 :             :                  :                    : "(951) 329-8320"   :                   |
+|    "Rachel"                  :             :                  :                    : "(303)898-4001"    :                   |
+|    "Rocco-Dad's Friend"      :             :                  :                    : "1 (714) 920-7620" :                   |
+|    "Sal"                     :             :                  :                    : "(951) 218-8128"   :                   |
+|    "Sara"                    : "Z."        :                  :                    : "(951)264-8195"    :                   |
+|    "School"                  :             : "(951)689-1981"  :                    : "(951) 335-8882"   :                   |
+|    "Siaki"                   :             :                  :                    : "(951) 743-9733"   :                   |
+|    "Sosa"                    :             :                  :                    : "+1 (951) 543-2119":                   |
+|    "Stacy"                   :             :                  :                    : "1 (951) 893-3332" :                   |
+|    "Stater Bros."            :             :                  :                    :                    :                   |
+|    "Stephanie-Helena's Mom"  :             :                  :                    : "(951) 202-6681"   :                   |
+|    "Stephanie"               : "V."        :                  :                    : "(951)707-5429"    :                   |
+|    "Tom-Alyssa's"            : "Dad"       :                  :                    : "13107955164"      :                   |
+|    "Toni"                    : "M."        :                  :                    : "(951)318-1176"    :                   |
+|    "Tracy"                   :             :                  :                    : "(951) 316-1000"   :                   |
+|    "Tyler-Claudia's friend"  :             :                  :                    : "+19513105369"     :                   |
+|    "Tyson"                   :             :                  :                    :                    : "1(360)528-7525"  |
+|    "Union Roofers"           :             :                  :                    : "1 (562) 927-1434" :                   |
+|    "Urgent"                  : "Care"      : "(951)782-3789"  :                    :                    :                   |
+|    "Ursula"                  :             :                  : "(619)334-3342"    : "(619)992-1096"    :                   |
+|    "Veronica"                :             :                  :                    : "317-1766"         :                   |
+|    "Victor"                  :             :                  :                    : "(951) 204-1430"   :                   |
+|    "Virginia"                : "Sabaresse" :                  :                    : "(714)381-3587"    :                   |
+|    "Yolanda"                 :             :                  : "(951)353-8601"    : "(951)288-9366"    :                   |
+|                              :             :                  :                    :                    :                   |
++--------------------------------------------------------------------------------------------------------------------- *0x28 -+
+|                         ____          _   _    _____ _                   _           __                                     |
+|                        |    \ ___ _ _|_|_| |  |  _  | |_ _ ___ ___ ___ _| |___    __|  |___                                 |
+|                        |  |  | .'| | | | . |  |     | | | | .'|  _| .'| . | . |  |  |  |  _|_                               |
+|                        |____/|__,|\_/|_|___|  |__|__|_|\_/|__,|_| |__,|___|___|  |_____|_| |_|                              |
+|                        The one person that should've smacked his kid harder                                                 |
+|                        AKA: his father                                                                                      |
++-- Personal Information --------------------------------------------------------------------------------------------- *0x29 -+
+|                                                                                                                             |
+| Name:                                                                                                                       |
+|         David "James" Alvarado Jr.                                                                                          |
+|                                                                                                                             |
+| DOB:                                                                                                                        |
+|         05/15/1971                                                                                                          |
+|                                                                                                                             |
+| Phone Information:                                                                                                          |
+|         (951) 776-7940                                                                                                      |
+|         CNAM:                                                                                                               |
+|                 "Caller_Name": "DAVID ALVARADO",                                                                            |
+|                 "Carrier": "Verizon Wireless"                                                                               |
+|                 "type": "mobile                                                                                             |
+|         Device Information:                                                                                                 |
+|                 Apple iPhone 6 64GB in Space Gray                                                                           |
+|                 Device ID: 89148000001612805837 (ICC)                                                                       |
+|                 IMEI: 359235062042972                                                                                       |
+|                                                                                                                             |
+| Emails:                                                                                                                     |
+|         alvarado97@sbcglobal.net [Deleted when his mom terminated her email]                                                |
+|         dalvarad@anningjohnson.com                                                                                          |
+|         alvaradojrdavid@gmail.com                                                                                           |
+|                                                                                                                             |
+| Address:                                                                                                                    |
+|         9700 Cabrillo Dr                                                                                                    |
+|         Riverside,CA 92503, United States                                                                                   |
+|         Past addresses:                                                                                                     |
+|                 2359 Orange St Riverside, CA 92501                                      ...                                 |
+|                 2343 Orange St Riverside, CA 92501                                    ;::::;                                |
+|                 921 6th St Norco, CA 92860                                          ;::::; :;                               |
+|                 3733 Windswest Ct Oklahoma City, OK 73179                         ;:::::'   :;                              |
+|                 7928 S Sheridan Rd Apt 805 Tulsa, OK 74133                       ;:::::;     ;.                             |
+|                 921 6th St Riverside, CA 91760                                  ,:::::'       ;           OOO\              |
+|                                                                                 ::::::;       ;          OOOOO\             |
+|                                                                                 ;:::::;       ;         OOOOOOOO            |
+| SSN:                                                                           ,;::::::;     ;'         / OOOOOOO           |
+|         556-13-6245                                                          ;:::::::::`. ,,,;.        /  / DOOOOOO         |
+|                                                                            .';:::::::::::::::::;,     /  /     DOOOO        |
+| Credit Information:                                                       ,::::::;::::::;;;;::::;,   /  /        DOOO       |
+|         Trans Union:                                                     ;`::::::`'::::::;;;::::: ,#/  /          DOOO      |
+|                 Score: 722                                               :`:::::::`;::::::;;::: ;::#  /            DOOO     |
+|                 Creditcards: 2                                           ::`:::::::`;:::::::: ;::::# /              DOO     |
+|                 Cars: 3                                                  `:`:::::::`;:::::: ;::::::#/               DOO     |
+|         Equifax:                                                          :::`:::::::`;; ;:::::::::##                OO     |
+|                 Score: 722                                                ::::`:::::::`;::::::::;:::#                OO     |
+|                 Creditcards: 3                                            `:::::`::::::::::::;'`:;::#                O      |
+|                 Cars: 3                                                    `:::::`::::::::;' /  / `:#                       |
+|                                                                             ::::::`:::::;'  /  /   `#                       |
++- Job Information --------------------------------------------------------------------------------------------------- *0x2A -+
+|                                                                                                                             |
+| Job information:                                                                                                            |
+|         Company: ANNING JOHNSON COMPANY                                                                                     |
+|         Position: Roofer                                                                                                    |
+|         Employee ID: 3512                                                                                                   |
+|   PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY STUB PAY  |
+|+---------------------------------------------------------------------------------------------------------------------------+|
+|| CO. | DIV. | CREW. | EMPL. NO. | ANNING JOHNSON COMP. |   TRADE   | PAY PERIOD | DEPT LAST JOB| CHECK NO                  ||
+|+-----+------+-------+-----------+----------------------+-----------+------------+--------------+---------------------------+|
+|| 30  | 341  | 111   | 3512      | DAVID J ALVARADO JR. | ROOFER JM |09/18/2017- |              | 23120                     ||
+||     |      |       |           |                      |           |09/24/2017  | 3T0651       |                           ||
+|+-----+------+-------+-----------+----------------------+-----------+------------+--------------+---------------------------+|
+||                       EARNINGS                        |                        DEDUCTIONS/BENEFITS                        ||
+|+-------------------+--------+--------+-----------------+-----------------------+-------------+-----------------------------+|
+||    DESCRIPTION    | HOURS  | RATE   |     AMOUNT      |      DESCRIPTION      |   AMOUNT    |         YTD AMOUNT          ||
+|+-------------------+--------+--------+-----------------+-----------------------+-------------+-----------------------------+|
+|| REGULAR HOURS     | 40.00  | 37.960 | 1,518.40        | CALIFORNIA W/H        | 43.56       |                    3,261.25 ||
+|| OVERTIME HOURS    | 1.00   | 56.940 | 56.94           | DUES CHECK OFF        | 41.00       |                    1,701.00 ||
+|| SUBSISTENCE PAY   |        |        | 490.00          | VACTION               | 112.75      |                    4,677.85 ||
+|| DIES CHECK OFF    |        |        | 41.00           | DIRECT DEPOSIT*       | 1,762.62    |                   43,340.12 ||
+|| VACTION           |        |        | 112.75          |                       |             |                             ||
+|| SICK HRS AVAIL    | 48.00  |        |                 |                       |             |                             ||
+||                   |        |        |                 |                       |             |                             ||
+|+----------------------------+--------+-----------------------------------------+-------------+-----------------------------+|
+||                                                                                                                           ||
+||         Keep your paystubs, you need them!! Anning Johnson Company  13250 Temple Ave.  City of Industry, CA 91746         ||
+||                                                                                                                           ||
+|+------------+--------------+-------------+-------------+------------+--------------+-------------+-------------------------+|
+||            |              |             |             |            |              |             |         NETPAY          ||
+||  CURRENT   | 2,219.09     | 111.33      | 132.27      | 43.56      | 15.56        | 302.72      |-------------------------+|
+||            |              |             |             |            |              |             |                         ||
+|+------------+--------------+-------------+-------------+------------+--------------+-------------|                         ||
+||            |              |             |             |            |              |             |                         ||
+||   Y.T.D    | 91,941.44    | 7,887.51    | 6,364.13    | 3,261.25   | 748.76       | 153.75      |               **1,762.62||
+||            |              |             |             |            |              |             |                         ||
+|+------------+--------------+-------------+-------------+------------+--------------+-------------|                         ||
+|             | GROSS EARN.  | FED W/ TAX  |   F.I.C.A   | STATE TAX  |   SDI TAX    | TOTAL TAXES |                         ||
+|             +------------------------------------------------------------------------------------+-------------------------+|
+|                                                                                                                             |
++--------------------------------------------------------------------------------------------------------------------- *0x30 -+
+                                     )           _____            ____                            _
+                            )      ((     (     |   __|_ _ ___   |    \ ___ ___ _ _ _____ ___ ___| |_ ___
+                           (        ))     )    |   __| | |   |  |  |  | . |  _| | |     | -_|   |  _|_ -|
+                    )       )      //     (     |__|  |___|_|_|  |____/|___|___|___|_|_|_|___|_|_|_| |___|
+               _   (        __    (     ~-&gt;&gt;
+        ,-----' |__,_~~___ &gt;-  &gt;
+        | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ -&gt;&gt; - ,  &gt;&gt;
+        | //  : |_~_\ -\__\ \~'\ \ \, \__ . -&gt;                                   ___.--------'``````:``````'--------.___
+        `-----._| `  -__`-- - ~~ -- ` --~&gt; &gt;                                         (   |               :               |   )
+         _/___\_    //)_`//  | ||]                                                    \ ,;,,,            :               |  /
+   _____[_______]_[~~-_ (.L_/  ||                                                      |\%%%%\___________:__________/~~~~~/|
+  [____________________]' `\_,/'/                                                     / ,\%%%%\          |         / @*@ /, \
+    ||| /          |||  ,___,'./                                                     /_ / `````          |         ~~~~~~ \ _\
+    ||| \          |||,'______|                                                     (@l)                 |                 (@l)
+    ||| /          /|| I==||                                                         ||__________________|__________________||
+    ||| \       __/_||  __||__                                                       ||_____________________________________||
+-----||-/------`-._/||-o--o---o-----------------------------------------------------/_|_____________________________________|_\
+
++-- AK-47's 10th grade failure notice -------------------------------------------------------------------------------- *0x31 -+
+|                                                                                                                             |
+| [This is a recreation of this email that his mom received from his school: https://i.imgur.com/pNRWfcA.png]                 |
+|                                                                                                                             |
+| Hello,                                                                                                                      |
+| Although Caden attends his conference fairly regularly, he is not advancing in credit production because                    |
+| he does not complete enough homework during the week at home. Hopefully he will crank out some credits                      |
+| in the next 3 weeks. He will not reach 11th grade status by the end of this school year at hi pace.                         |
+| Possibly a more structured program would better suit him for next year. I do enjoy having him as                            |
+| my student and he is always polite and respectful (l also love my Hawaii magnet).                                           |
+| Please contact me with any concerns, thank you.                                                                             |
+|                                                                                                                             |
+| Cynder Field                                                                                                                |
+| Sumnut View Teacher, RUSD                                                                                                   |
+| Educational Options Center                                                                                                  |
+| (951) 276-7670 ext. 69206                                                                                                   |
+| cfield@rusd_k12_ca_us                                                                                                       |
+|/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/|
+| Alexa Alvarado                                                                                   |
+| To: Field, Cyntha A.                                                                                                        |
+|                                                                                                                             |
+| Ms. Field, Does Caden have class next week?                                                                                 |
+| He was concerned when you weren't there for 2 class sessions ...he was happy that You were back yesterday                   |
+| ( although he couldn't stay as he was having some stomach problems )...he did turn in his books .                           |
+| Two weeks ago received a letter stating that Caden would not be accepted at your school program next year.....              |
+| l had higher hopes for Caden in the Summit View program but you are right he isn't completing enough work ! I was           |
+| thinking maybe the 4 hour a day program for him next year...is that the Rain Cross program ?                                |
+| left a message last week for Mr . Davalos but he never returned my phone call.                                              |
+| have also not heard back about summer school. Caden                                                                         |
+| is on a transfer for your district , I need to make sure that he has somewhere to go far next year.....any suggestions ?    |
+| I truly can't believe he just isn't interested in school anymore !                                                          |
+| He has many years to go and as a parent I don't exactly know what to do to help him advance                                 |
+| He has enjoyed having you as a teacher , you have made him smile again but he just isn't motivated enough to do his         |
+| schoolwork .                                                                                                                |
+| Thank you ,                                                                                                                 |
+| Alexa Alvarado                                                                                                              |
+|                                                                                                                             |
+| Sent from my iPad                                                                                                           |
+|                                                                                                                             |
++-- Home Loan Explaination ------------------------------------------------------------------------------------------- *0x32 -+
+|                                                                                                                             |
+|  June 18, 2017 - This is intended to be the explanation letter requested for David and                                      |
+|  Alexa Alvarado's Home loan.                                                                                                |
+|                                                                                                                             |
+|  With regard to the multiple past late payments showing between June of 2013                                                |
+|  and August of 2016 on our credit report for Wells Fargo: After the beginning of the new                                    |
+|  year in 2013, David experienced fewer work hours, which initiated our getting                                              |
+|  behind. The lates continued rolling forward until we got everything caught up close                                        |
+|  to a year ago. There has been no shortage of hours to be worked, or problems with                                          |
+|   keeping everything paid on time since.                                                                                    |
+|                                                                                                                             |
+|  Our reason for requesting this refinance loan is to pay several of our bills off,                                          |
+|  complete some home improvement projects, and lower our overall interest rate and                                           |
+|  monthly payment.                                                                                                           |
+|                                                                                                                             |
+|  CBNA Inquiry - David opened a Costco Citibank credit card, which he uses when                                              |
+|  he works out of town.                                                                                                      |
+|                                                                                                                             |
+|  Addresses: 2343 Orange St, Riverside, CA 92501 - We rented, living at this address                                         |
+|  for about 10 years before purchasing 9700 Cabrillo, where we currently own                                                 |
+|  and live.                                                                                                                  |
+|                                                                                                                             |
+|  921 6th Street, Norco, CA 92860 - David resided here prior to our moving together                                          |
+|   to 2343 Orange St.                                                                                                        |
+|                                                                                                                             |
+|  3771 Hillside Ave, Norco, CA 92860 - This is where Alexa resided before she and                                            |
+|  David moved together to 2343 Orange St.                                                                                    |
+|                                                                                                                             |
+|  Other Name: Alexa A. Robson - Robson is Alexa's maiden name. Alexa A. Robson                                               |
+|  became Alexa A. Alvarado 20 years ago last March.                                                                          |
+|                                                                                                                             |
+|                                                                                                                             |
+|  ____________________________________                                                                                       |
+|  Alexa Anastasia Alvarado                                                                                                   |
+|  ____________________________________                                                                                       |
+|  David James Alvarado Jr.                                                                                                   |
+|                                                                                                                             |
++-- Adams Termination Letter ----------------------------------------------------------------------------------------- *0x33 -+
+|                                                                                                                             |
+|  12/12/2017                                                                                                                 |
+|                                                                                                                             |
+|  Adam Alvarado                                                                                                              |
+|  9700 Cabrillo Dr                                                                                                           |
+|  Riverside, CA 92503                                                                                                        |
+|                                                                                                                             |
+|  Dear Adam (EEID: 102776418):                                                                                               |
+|                                                                                                                             |
+|  This letter confirms that the date of your voluntary resignation due to job abandonment with Golden                        |
+|  State FC LLC is December 12, 2017.                                                                                         |
+|                                                                                                                             |
+|  You have executed a Confidentiality and Invention Assignment Agreement with the Company.  You are                          |
+|  reminded that certain provisions of the agreement survive the termination of your employment with the                      |
+|  Company and remain in full force and effect.                                                                               |
+|                                                                                                                             |
+|  We wish you the best in your future endeavors.                                                                             |
+|                                                                                                                             |
+|  Sincerely,                                                                                                                 |
+|  Amazon Human Resources                                                                                                     |
+|                                                                                                                             |
++-----------------------------------------------------------------------------------------------------------------------------+
+       . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@@@@@@^^~~~~~~~~~~~~~~~~~~~~^^@@@@@@@@
+            . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@@@@@^     ~^  @  @@ @ @ @ I  ~^@@@@@@
+       . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@@@@            ~ ~~ ~I          @@@@@
+            . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@@@'                  '  _,w@&lt;    @@@@
+       . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@@@     @@@@@@@@w___,w@@@@@@@@  @  @@@
+            . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@@@     @@@@@@@@@@@@@@@@@@@@@@  I  @@@
+C      . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@@@     @@@@@@@@@@@@@@@@@@@@*@[ i  @@@
+O           . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOOO8O8O8O8O88O888888@8@8@8@@@@@@@@@@@@     @@@@@@@@@@@@@@@@@@@@[][ | ]@@@
+N      . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOoOOOOOO8O8O888@8@8@8@8@@@@@@@@@@@@@@@     ~_,,_ ~@@@@@@@~ ____~ @    @@@
+C           . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOOO8O8O8O8O88O888888@8@8@8@@@@@@@@@@@@    _~ ,  ,  `@@@~  _  _`@ ]L  J@@@
+L      . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOoOOOOOO8O8O888@8@8@8@8@@@@@@@@@@@@@@@  , @@w@ww+   @@@ww``,,@w@ ][  @@@@
+U           . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOOO8O8O8O8O88O888888@8@8@8@@@@@@@@@@@@,  @@@@www@@@ @@@@@@@ww@@@@@[  @@@@
+S      . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOoOOOOOO8O8O888@8@8@8@8@@@@@@@@@@@@@@@@_|| @@@@@@P' @@P@@@@@@@@@@@[|c@@@@
+I           . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOOO8O8O8O8O88O888888@8@8@8@@@@@@@@@@@@@@w| '@@P~  P]@@@-~, ~Y@@^'],@@@@@@
+O      . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOoOOOOOO8O8O888@8@8@8@8@@@@@@@@@@@@@@@@@@[   _        _J@@Tk     ]]@@@@@@
+N           . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@@@@@@@,@ @@, c,,,,,,,y ,w@@[ ,@@@@@@@
+       . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@@@@@@@@ i @w   ====--_@@@@@  @@@@@@@@
+            . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@@@@@@@@@`,P~ _ ~^^^^Y@@@@@  @@@@@@@@@
+       . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@@@^^=^@@^   ^' ,ww,w@@@@@ _@@@@@@@@@@
+            . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@@_xJ~ ~   ,    @@@@@@@P~_@@@@@@@@@@@@
+       . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@   @,   ,@@@,_____   _,J@@@@@@@@@@@@@
+            . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@L  `' ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+       . . . . ....:.:.:.:.::::::o:o:o:ooooooOoOoOoOOOOOO8O8O8O8O8888@8@8@8@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+            . . . ......:.:.:.:.::::o:o:o:o:ooooOoOoOoOoOOOOOO8O8O8O888888@8@8@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
++-- Ending Notes ----------------------------------------------------------------------------------------------------- *0x41 -+
+|                                                                                                                             |
+|                                                                                                                             |
+|  Hey,                                                                                                                       |
+|                                                                                                                             |
+|        AK-47 was a real jerk, I've seen this kid swat little girls and extort them for not sending him naked pictures of    |
+|  themselves, not only that he was so poor he would steal from his friends, extort people out of OG minecraft accounts and   |
+|  sell others peoples social engineering methods.                                                                            |
+|                                                                                                                             |
+|                                                                                                                             |
+|                                                                                                                             |
+|        AK-47 is the one responsible for calling in the bomb threat to West Genesee High School. His motive was to extort    |
+|  a kid out of an OG account that he owned and obviously failed. Hes not only responsible for that but for a number of       |
+|  swattings around america as a mean of extortion.                                                                           |
+|                                                                                                                             |
+|                                                                                                                             |
+|                                                                                                                             |
+|        All of the AK-47 Documents is karma for all the pain he has caused others.                                           |
+|                                                                                                                             |
+|  Sincerely,                                                                                                                 |
+|  NAMBLA.org                                                                                                                 |
+|                                                                                                                             |
++-----------------------------------------------------------------------------------------------------------------------------+</textarea>

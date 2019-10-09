@@ -1,0 +1,44 @@
+5 catégories
+handicap moteur: deplacement
+handicap auditif: communication
+handicap visuel: lecture ecriture
+handicap mental: reflet
+handicap psychique: reflexion
+______________________________________________________________________________________
+accessibilité = tout ce que vous voulez sur le site 
+______________________________________________________________________________________ 
+access access personne agee ou bien les handicaper temporaire: tel qu'un bras cassé
+______________________________________________________________________________
+accés sur le site web, logiciel, document, application, interface homme-machine: (automate de vente)
+______________________________________________________________________________
+pillier de l'accesibilité
+contenue web: code de balisage, script ...
+agent utilisateur: logiciels permettant d'accéder à contenue web.
+outils de création: logiciel ou service utilisateur pour le générateur de contenu Web.
+______________________________________________________________________________
+guides: norme d'accessibilité (WCAG norme web) (norme ATAG de logiciel) (UAAG).
+3 piliers: utilisateur
+- contenue 
+-devloppeur 
+______________________________________________________________________________
+référentiel anglais pour l'accessibilité
+WCAG (accessibilité du contenu Web Lignes directrices)
+wai aria (Accessibile applications Internet riches)
+RGAA (referentiel général d'Accessibility verser les administration)
+Accéde Web 
+______________________________________________________________________________
+w3c-> wai -> (WCAG-ATAG-UAAG-aria-UAWG)
+
+ a linterieur de w3c il y a wai (cellule spécialisée pour l'accessibiliter)
+______________________________________________________________________________3 niveau d'accessibiliter 
+A = accessibiliter minimal (pas adaptateur) très accessible 
+AA = accessibiliter elever 
+AAA = accessibiliter tres elever 
+______________________________________________________________________________________
+RGAA for referetiel fgenerale accessibiliter for
+the administration RGAA s'aligne sur le règlement international en passant par une méthode et un référentiel technique 
+existe également 3 niveau: A, AA, AAA.
+______________________________________________________________________________4 notice pratique 
+conception graphique -> intégration html / css ---> développement et interactiviter ---> contenu éditorial
+______________________________________________________________________________prevoir alternatif à captcha 
+sous titre les vidéos 

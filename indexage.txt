@@ -1,0 +1,7 @@
+en haut de la page
+<br>
+<a href="index.html">index</a>
+
+dans l'index
+<br>
+<a href="nom_de_la_page.html">nom de la page</a>

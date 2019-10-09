@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head lang="fr">
+        <title>merci</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <audio autoplay id="amb" loop="loop">
+                <source id="amb" src="KSP_OST/Frost-Waltz.mp3" type="audio/mp3"/>
+                Votre navigateur n'est pas compatible
+        </audio>
+        <button type="button" onclick="document.getElementById('amb').pause()">stopper l'ambience</button>
+        <button type="button" onclick="document.getElementById('amb').play()">mettre l'ambience</button>
+        <br>
+        <h1>ce n'est pas fini !!!!</h1>
+        <p>merci d'avoir repondu a ce formulaire. voici maintenant le stream sd et hd de l'iss et une frame qui indique son emplacement</p>
+        <p>(le module hd de l'iss n'étant plus en état de marche, ce sont des redif</p>
+        <div>
+            <p>
+            <iframe id="j" width="800" height="660" src="https://ustream.tv/embed/9408562" scrolling="yes" allowfullscreen webkitallowfullscreen frameborder="1" style="border: 0 none transparent;"></iframe>
+            <iframe width="680" height="470" src="https://ustream.tv/embed/17074538" scrolling="yes" allowfullscreen webkitallowfullscreen frameborder="1" style="border: 0 none transparent;"></iframe>
+            <iframe id="j" width="450" height="450" src="http://wsn.spaceflight.esa.int/iss/index_portal.php" frameborder="0">iss</iframe>
+            </p>
+        </div>
+        <br>
+        <a href="index.html">retour à index</a>
+    </body>
+</html>
